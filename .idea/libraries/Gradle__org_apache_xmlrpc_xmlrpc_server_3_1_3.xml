@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xmlrpc:xmlrpc-server:3.1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlrpc/xmlrpc-server/3.1.3/e4ddf1852cb162139230ef733223633e362cf301/xmlrpc-server-3.1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlrpc/xmlrpc-server/3.1.3/571e70b63f4615a8cece6bacc38342814dae5aa3/xmlrpc-server-3.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
